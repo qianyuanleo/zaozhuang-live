@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "functions": {
+    "api/fetch-m3u8.js": {
+      "maxDuration": 30,
+      "memory": 1024
+    }
+  }
+}

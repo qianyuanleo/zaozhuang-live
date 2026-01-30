@@ -1,0 +1,13 @@
+{
+  "name": "zaozhuang-live-scraper",
+  "version": "1.0.0",
+  "description": "枣庄电视台直播地址云端抓取服务",
+  "type": "module",
+  "dependencies": {
+    "@sparticuz/chromium": "^121.0.0",
+    "puppeteer-core": "^21.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
